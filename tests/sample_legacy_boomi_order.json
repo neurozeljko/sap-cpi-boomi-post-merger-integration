@@ -1,0 +1,15 @@
+{
+  "mergerOrderId": "ORD-MA-PHARMA-2026-02",
+  "pharmaceuticalSKU": "GENERIC-ANTIBIOTIC-01",
+  "totalValueUSD": 450000.00,
+  "manufacturingPlantId": "PLANT-US-BOSTON-01",
+  "orderLineItems": [
+    {
+      "itemPosition": "10",
+      "quantity": 10000.0,
+      "unitOfMeasure": "BOX",
+      "batchLotNumber": "BATCH-LEGACY-881",
+      "unitPrice": 45.00
+    }
+  ]
+}

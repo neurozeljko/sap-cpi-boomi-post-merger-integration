@@ -1,0 +1,15 @@
+{
+  "mergerOrderId": "ORD-MA-PHARMA-2026-01",
+  "pharmaceuticalSKU": "ONCO-DRUG-KEYTRUDA-GEN",
+  "totalValueUSD": 14500000.00,
+  "manufacturingPlantId": "PLANT-US-BOSTON-01",
+  "orderLineItems": [
+    {
+      "itemPosition": "10",
+      "quantity": 5000.0,
+      "unitOfMeasure": "VIAL",
+      "batchLotNumber": "BATCH-GMP-2026-X01",
+      "unitPrice": 2900.00
+    }
+  ]
+}
